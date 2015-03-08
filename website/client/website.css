@@ -1,0 +1,8 @@
+.highlight {
+  background-color: #eee;
+}
+
+.highlight:hover {
+  background-color: #ddd;
+
+}

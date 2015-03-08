@@ -25,3 +25,7 @@ List of links to stuff that is integrated in this example:
       - git clone https://github.com/lldata/meteor-bower.git
   Bootstrap for styling
   - https://github.com/mangasocial/meteor-bootstrap-3
+  Rest call to Yahoo Finance
+  - http module
+  - stock quotes are imported to mongo
+  

@@ -1,0 +1,9 @@
+{
+  "name": "react-meteor-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "react-bootstrap": "0.16.1"
+  },
+  "ignoredDependencies": ["react"],
+  "private": true
+}
